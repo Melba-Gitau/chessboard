@@ -1,0 +1,28 @@
+
+ table {
+      width: 500px;
+      height: 490px;
+      margin: 10px;
+      border: 20px solid rgb(24, 23, 23);
+    }
+
+    .black {
+      background-color: rgb(51, 47, 47);
+      width: 85px;
+      height: 85px;
+      font-size: 50px;
+      text-align: center;
+      display: table-cell;
+      vertical-align: middle;
+    }
+
+    .white {
+      color: black;
+      width: 85px;
+      height: 85px;
+      background-color: rgb(239, 233, 233);
+      font-size: 50px;
+      text-align: center;
+      display: table-cell;
+      vertical-align: middle;
+    }
